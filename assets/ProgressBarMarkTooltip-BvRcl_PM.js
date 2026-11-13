@@ -1,0 +1,1 @@
+import{t as e}from"./Tooltip-DnWqAvDu.js";import{x as t}from"./react-Df99g07g.js";var n=t();function r({content:t,children:r}){return(0,n.jsx)(e,{content:t,placement:`above`,focusTrigger:`always`,children:r})}export{r as default};

@@ -1,0 +1,28 @@
+{
+  "id": "/sites/s/profi-auto/",
+  "scope": "/sites/s/profi-auto/",
+  "start_url": "/sites/s/profi-auto/?source=pwa",
+  "name": "Profi Auto",
+  "short_name": "Profi Auto",
+  "display": "standalone",
+  "background_color": "#0A0B0D",
+  "theme_color": "#0A0B0D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

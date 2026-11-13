@@ -1,0 +1,28 @@
+{
+  "id": "/sites/s/auto-room-astana/",
+  "scope": "/sites/s/auto-room-astana/",
+  "start_url": "/sites/s/auto-room-astana/?source=pwa",
+  "name": "Auto Room Astana",
+  "short_name": "Auto Room",
+  "display": "standalone",
+  "background_color": "#0A0B0D",
+  "theme_color": "#0A0B0D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

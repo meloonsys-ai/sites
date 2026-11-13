@@ -1,1 +1,0 @@
-import{l as e}from"./index-CzIe8egK.js";import{t}from"./ServicesSection-BhiyghSV.js";import{x as n}from"./react-Df99g07g.js";var r=n();function i(){return(0,r.jsx)(t,{data:e().data,titleLevel:1,className:`pub-section`})}export{i as Component};

@@ -1,0 +1,1 @@
+import{l as e}from"./index-DaezcSML.js";import{t}from"./ServicesSection-DRnDCUxQ.js";import{x as n}from"./react-Df99g07g.js";var r=n();function i(){return(0,r.jsx)(t,{data:e().data,titleLevel:1,className:`pub-section`})}export{i as Component};

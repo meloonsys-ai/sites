@@ -1,0 +1,28 @@
+{
+  "id": "/sites/s/detailing-time/",
+  "scope": "/sites/s/detailing-time/",
+  "start_url": "/sites/s/detailing-time/?source=pwa",
+  "name": "Detailing Time",
+  "short_name": "Detailing",
+  "display": "standalone",
+  "background_color": "#0A0B0D",
+  "theme_color": "#0A0B0D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

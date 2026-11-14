@@ -1,0 +1,28 @@
+{
+  "id": "/sites/s/asov-kz/",
+  "scope": "/sites/s/asov-kz/",
+  "start_url": "/sites/s/asov-kz/?source=pwa",
+  "name": "Asov kz",
+  "short_name": "Asov kz",
+  "display": "standalone",
+  "background_color": "#0A0B0D",
+  "theme_color": "#0A0B0D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

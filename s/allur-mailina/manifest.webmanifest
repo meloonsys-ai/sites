@@ -1,0 +1,28 @@
+{
+  "id": "/sites/s/allur-mailina/",
+  "scope": "/sites/s/allur-mailina/",
+  "start_url": "/sites/s/allur-mailina/?source=pwa",
+  "name": "Allur Mailina",
+  "short_name": "Allur",
+  "display": "standalone",
+  "background_color": "#0A0B0D",
+  "theme_color": "#0A0B0D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-import{p as e}from"./usePopover-CSAsU2Eb.js";import{x as t}from"./react-Df99g07g.js";var n=t();function r({icon:t,...r}){return(0,n.jsx)(e,{...r,icon:t,isIconOnly:!0})}r.displayName=`IconButton`;export{r as t};

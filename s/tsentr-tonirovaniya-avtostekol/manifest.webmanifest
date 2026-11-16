@@ -1,0 +1,28 @@
+{
+  "id": "/sites/s/tsentr-tonirovaniya-avtostekol/",
+  "scope": "/sites/s/tsentr-tonirovaniya-avtostekol/",
+  "start_url": "/sites/s/tsentr-tonirovaniya-avtostekol/?source=pwa",
+  "name": "Центр тонирования автостекол",
+  "short_name": "Центр",
+  "display": "standalone",
+  "background_color": "#0A0B0D",
+  "theme_color": "#0A0B0D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
